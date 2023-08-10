@@ -4,9 +4,9 @@
 </div>
 
 <div align="center">
-  <a href="https://onurcancira96.github.io/pnurcancira96/">
+
   <img  src="https://github.com/onurcancira96/onurcancira96/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
 
 -----
