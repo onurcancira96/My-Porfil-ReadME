@@ -7,7 +7,10 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
 </div>
-
+      <div align="center">
+  <img  src="https://media.tenor.com/HKUc3og5OxAAAAAM/gato-cat.gif"
+       alt="cat" />
+</div>
 -----
 <details>
   <summary>☎️ contact me</summary>
@@ -67,8 +70,4 @@
      <br>
      </samp>
   </div>
-      <div align="center">
-  <img  src="https://media.tenor.com/HKUc3og5OxAAAAAM/gato-cat.gif"
-       alt="cat" />
-</div>
 </details>
